@@ -1,10 +1,14 @@
-import logo from './logo.svg';
+
 import './App.css';
+import Banner from './components/banner/Banner';
+import Navbar from './components/navbar/Navbar';
 
 function App() {
   return (
     <div className="App">
-      Movies app
+      <Navbar/>
+      <Banner/>
+     
     </div>
   );
 }

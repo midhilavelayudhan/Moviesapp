@@ -1,0 +1,13 @@
+.logo{
+    position: fixed;
+    left:10px;
+    width:80px;height:70px;
+}
+.navbar{
+    position:fixed;
+    height:90px;
+    background-color: #111;
+    width:100%;
+    display:flex;
+    justify-content: space-between;
+}
