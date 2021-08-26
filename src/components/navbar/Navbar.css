@@ -1,13 +1,18 @@
 .logo{
     position: fixed;
     left:10px;
-    width:80px;height:70px;
+    width:70px;
+    
+}
+.avatar{
+    position:fixed;
+    right:10px;
+    height:30px;
 }
 .navbar{
     position:fixed;
-    height:90px;
-    background-color: #111;
+    top:0;
     width:100%;
-    display:flex;
-    justify-content: space-between;
+    height:70px;
+    background-color: #111;
 }
